@@ -1,4 +1,4 @@
-**Exploratory Data Analysis on Roller Coasters Dataset**
+# Exploratory Data Analysis on Roller Coasters Dataset
 
 This repository contains an exploratory data analysis (EDA) project performed on a roller coasters dataset sourced from Kaggle. The project aims to uncover trends, insights, and interesting patterns in global roller coaster data using Python and popular data analysis libraries.
 ****
