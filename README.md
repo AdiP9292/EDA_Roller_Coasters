@@ -1,8 +1,8 @@
 # Exploratory Data Analysis on Roller Coasters Dataset
 
 This repository contains an exploratory data analysis (EDA) project performed on a roller coasters dataset sourced from Kaggle. The project aims to uncover trends, insights, and interesting patterns in global roller coaster data using Python and popular data analysis libraries.
-****
-**Dataset Description:**
+
+## Dataset Description:
 The dataset provides comprehensive information about roller coasters around the world, including attributes such as:
 - Name, Park, and Location
 
@@ -16,10 +16,7 @@ The dataset provides comprehensive information about roller coasters around the 
 
 - Year of opening
 
-  
-****
-
-**Project Goals**
+## Project Goals
 - Perform data cleaning and preprocessing.
 
 - Handle missing values and identify inconsistencies.
@@ -31,7 +28,7 @@ The dataset provides comprehensive information about roller coasters around the 
 - Identify top manufacturers, countries with the most coasters, and changes over time.
 ****
   
-**Technologies Used**
+## Technologies Used
 - Python
 
 - Pandas – Data manipulation
@@ -39,9 +36,9 @@ The dataset provides comprehensive information about roller coasters around the 
 - Seaborn & Matplotlib – Data visualization
 
 - Google Colab – Interactive analysis
-*****
 
-**Key Findings**
+
+## Key Findings
 - Trends in coaster construction across decades
 - Popular countries and parks for coaster installations
 - Comparison between steel and wooden coasters
